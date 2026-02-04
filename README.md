@@ -146,7 +146,3 @@ If `opencv-python` fails to install on your platform, consider:
 * `0` success (even if some files had warnings)
 * non-zero indicates a fatal error (e.g., invalid args, missing required files, cannot read input folder)
 
-## License
-
-Add a `LICENSE` file (MIT/Apache-2.0 are common defaults). If you include the `.caffemodel` in-repo, ensure your licensing section appropriately attributes upstream sources and complies with redistribution requirements.
-
