@@ -261,3 +261,4 @@ For issues or questions:
 2. Use `--dry-run` to test safely
 3. Review TASS warnings in output
 4. Examine `--jsonl` reports for detailed metrics
+# vision
