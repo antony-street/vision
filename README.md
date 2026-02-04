@@ -1,4 +1,4 @@
-# vision, Student ID photo processing for TASS
+# vision, Student ID photo processing for The Alpha School System (TASS) (https://www.tassweb.com.au/)
 
 A small Python CLI that batch-processes student photos into **TASS-ready ID images** by detecting the primary face, cropping with margin, resizing to a fixed target size, and compressing outputs to a strict file-size cap. If no suitable face is detected, it falls back to a centered, aspect-preserving crop.
 
