@@ -10,8 +10,6 @@ This repository includes everything required to run:
 - `deploy.prototxt` (OpenCV DNN face detector network definition)
 - `res10_300x300_ssd_iter_140000.caffemodel` (OpenCV DNN face detector weights)
 
-> Note: If you redistribute the model file, ensure you are complying with any applicable licensing/redistribution terms. If you know the authoritative upstream source and license, document it here.
-
 ## Features
 
 - **Face-aware crop** using OpenCV DNN (Caffe SSD face detector)
