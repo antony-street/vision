@@ -1,4 +1,3 @@
-````markdown
 # vision, Student ID photo processing for TASS
 
 A small Python CLI that batch-processes student photos into **TASS-ready ID images** by detecting the primary face, cropping with margin, resizing to a fixed target size, and compressing outputs to a strict file-size cap. If no suitable face is detected, it falls back to a centered, aspect-preserving crop.
@@ -150,8 +149,4 @@ If `opencv-python` fails to install on your platform, consider:
 ## License
 
 Add a `LICENSE` file (MIT/Apache-2.0 are common defaults). If you include the `.caffemodel` in-repo, ensure your licensing section appropriately attributes upstream sources and complies with redistribution requirements.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
 
